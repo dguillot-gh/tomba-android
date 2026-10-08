@@ -22,7 +22,7 @@ bin_name = "Tomba! (USA).bin"
 cue_name = "Tomba! (USA).cue"
 boot_exe = "SCUS_942.36"
 discs = [
-  "G:/ps1 ports/games to recomp/Tomba! (USA) [SCUS-94236] Redump/Tomba! (USA).cue",
+  "Tomba! (USA).cue",
 ]
 known_sizes = [280193760]
 known_md5 = [
